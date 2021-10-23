@@ -12,4 +12,4 @@ client.on("ready", () => {
  
  });
  
- client.login("TokenSecreto");
+ client.login("OTAwMjA1MDc1MzQ2MTAwMzA4.YW97Tg.5sQHSBXuBj9u1sD2mKTRRR9RXmQ");
